@@ -1,16 +1,27 @@
-## Hi there 👋
+# Ximena Vanessa Hernández Noroña
 
-<!--
-**xovnss/xovnss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack AI Engineer** · Ciudad de México
 
-Here are some ideas to get you started:
+Construyo productos SaaS con IA de punta a punta: diseño, código, despliegue y roadmap. Trabajo con IA desde 2023 y vengo del marketing, así que pienso los productos desde quien los va a usar y a pagar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lo que he construido
+
+- **[Guvo Academy](https://www.guvo.mx/demo)**: plataforma de capacitación corporativa con IA, con simulaciones para practicar, coaching en tiempo real y certificados inteligentes. Cofundadora. 12 clientes activos.
+- **[Borah](https://borah.mx)**: plataforma de marketing con IA para PyMEs en LATAM, llave en mano y de funcionamiento autónomo. Plan mensual, guion, edición de video en un clic y programación de publicaciones.
+
+## Proyectos de muestra
+
+Versiones con datos de ejemplo, para ver cómo construyo:
+
+- **[guvo-academy-demo](https://github.com/xovnss/guvo-academy-demo)**: simulador de práctica con coaching en tiempo real. *En construcción.*
+- **[odoo-ai-assistant](https://github.com/xovnss/odoo-ai-assistant)**: asistente con IA que responde preguntas sobre inventario y ventas de un ERP. *En construcción.*
+
+## Stack
+
+`Next.js` · `TypeScript` · `Python` · `Supabase` · `Vercel` · `LangChain` · `RAG` · `Agentes de IA` · `OpenAI` · `Microsoft Azure` · `Odoo`
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/ximenano%C3%B1a-76199a360)
+
+Abierta a equipos que construyan productos con IA.
