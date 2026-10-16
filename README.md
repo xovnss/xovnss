@@ -14,7 +14,7 @@ Construyo productos SaaS con IA de punta a punta: diseño, código, despliegue y
 Versiones con datos de ejemplo, para ver cómo construyo:
 
 - **[guvo-academy-demo](https://github.com/xovnss/guvo-academy-demo)**: motor de simulaciones de capacitación con IA: termómetro emocional, criterios en vivo, coach con RAG, score y certificados verificables. 64 pruebas y evals.
-- **[odoo-ai-assistant](https://github.com/xovnss/odoo-ai-assistant)**: tienda ficticia con catálogo, cotizador, corte de caja y un agente en español que consulta Odoo por API (solo lectura, reintentos, OpenRouter con tope diario). 55 pruebas y 20 evals.
+- **[odoo-ai-assistant](https://github.com/xovnss/odoo-ai-assistant)**: tienda ficticia con tres precios, stock vendible, cuadre de caja, envíos y un agente en español que consulta Odoo por API (solo lectura, reintentos, OpenRouter con tope diario). 67 pruebas y 20 evals. [Probar la demo](https://odoo-ai-assistant-lyart.vercel.app).
 
 ## Stack
 
