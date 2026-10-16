@@ -14,7 +14,6 @@ Construyo productos SaaS con IA de punta a punta: diseño, código, despliegue y
 Versiones con datos de ejemplo, para ver cómo construyo:
 
 - **[guvo-academy-demo](https://github.com/xovnss/guvo-academy-demo)**: motor de simulaciones de capacitación con IA: termómetro emocional, criterios en vivo, coach con RAG, score y certificados verificables. 64 pruebas y evals.
-- **[odoo-ai-assistant](https://github.com/xovnss/odoo-ai-assistant)**: tienda ficticia con tres precios, stock vendible, cuadre de caja, envíos y un agente en español que consulta Odoo por API (solo lectura, reintentos, OpenRouter con tope diario). 67 pruebas y 20 evals. [Probar la demo](https://odoo-ai-assistant-lyart.vercel.app).
 - **[Aurora Hogar](https://github.com/xovnss/odoo-ai-assistant/tree/main/aurora-hogar)**: plataforma de catálogo para clientas, fichas de ventas con cotización y PDF de etiqueta blanca, y caja con arqueo, vales y cuadre, hecha en Next.js con datos y marca de ejemplo. [Probar la demo](https://aurora-hogar-demo.vercel.app).
 
 Producto real en producción: **[Guvo](https://guvo.mx)**, capacitación corporativa con IA.
