@@ -14,7 +14,7 @@ Construyo productos SaaS con IA de punta a punta: diseño, código, despliegue y
 Versiones con datos de ejemplo, para ver cómo construyo:
 
 - **[guvo-academy-demo](https://github.com/xovnss/guvo-academy-demo)**: motor de simulaciones de capacitación con IA: termómetro emocional, criterios en vivo, coach con RAG, score y certificados verificables. 64 pruebas y evals.
-- **[BAM!](https://github.com/xovnss/aurora-hogar-demo)**: tienda de ropa para mi marca con mensaje («a brand made for you»): catálogo editorial, fichas de ventas con cotización y PDF de etiqueta blanca, app interna para subir y aprobar productos, y chatbot de ayuda con IA que recomienda talla y consulta existencias por sucursal. Next.js, con datos de ejemplo. [Probar la demo](https://aurora-hogar-demo.vercel.app).
+- **[BAM!](https://github.com/xovnss/bam-demo)**: tienda de ropa para mi marca con mensaje («a brand made for you»): catálogo editorial, fichas de ventas con cotización y PDF de etiqueta blanca, app interna para subir y aprobar productos, y chatbot de ayuda con IA que recomienda talla y consulta existencias por sucursal. Next.js, con datos de ejemplo. [Probar la demo](https://bam-demo.vercel.app).
 
 Producto real en producción: **[Guvo](https://guvo.mx)**, capacitación corporativa con IA.
 
